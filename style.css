@@ -2,3 +2,25 @@ body {
 	background-image:url("http://a1star.com/images/starfiel.gif");
 	padding: 20px;
 	color: white;
+}
+
+.cat {
+	text-align:left;	
+}
+
+.cat img {
+	display:inline;
+	float:left;
+	margin-right: 20px;
+}
+
+.cat span {
+	display:block;
+	font-size:30px;
+	font-family:comic sans MS;
+}
+
+h1 {
+	font-family:comic sans MS;
+	font-size:20px;
+}
