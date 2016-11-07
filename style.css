@@ -48,11 +48,9 @@ br {
 
 .dogbg {
 	
-	background: url("https://cdn-images-1.medium.com/max/1280/1*m9rzPCSeT-Zmom87KcQLMQ.jpeg");
-	background-size: cover;
-	font-family: comic sans MS;
-}
-
-.arinbg {
-	background: white;
+	background:url("https://cdn-images-1.medium.com/max/1280/1*m9rzPCSeT-Zmom87KcQLMQ.jpeg");
+	background-size:cover;
+	font-family:comic sans MS;
+	text-align:center;
+	font-size:100;
 }
