@@ -46,7 +46,7 @@ br {
 	background-image: url("http://a1star.com/images/starfiel.gif");
 }
 
-.dogbg {
+html.dogbg {
 	
 	background: url("https://cdn-images-1.medium.com/max/1280/1*m9rzPCSeT-Zmom87KcQLMQ.jpeg");
 	background-size: cover;
