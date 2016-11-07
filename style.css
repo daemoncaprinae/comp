@@ -1,6 +1,7 @@
 body {
 	padding: 20px;
 	color: white;
+	font-family:comic sans MS;
 }
 
 .cat {
@@ -16,11 +17,9 @@ body {
 .cat span {
 	display:block;
 	font-size:30px;
-	font-family:comic sans MS;
 }
 
 #eggface {
-	font-family:comic sans MS;
 	font-size:20px;
 }
 
@@ -36,7 +35,6 @@ body {
 
 .doggo span {
 	font-size:100px;
-	font-family: comic sans MS;
 }
 
 .homebg {
