@@ -29,6 +29,10 @@ body {
 	color:white;
 }
 
+a:visited {
+	color: white;
+}
+
 .doggo {
 	text-align:center;
 }
